@@ -18,6 +18,8 @@
 
 [Screencast](./assets/Screencast_20240506_092939.webm)
 
+![Screencast](./assets/Screencast_20240506_092939.gif)
+
 ## Viewing Event Log and confirming logon
 
 ![alt text](assets/Screenshot_20240505_230520.png)
