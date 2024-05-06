@@ -14,7 +14,9 @@
 
 ![alt text](assets/Screenshot_20240505_223141.png)
 
-![alt text](assets/Screenshot_20240505_223447.png)
+![alt text](assets/image.png)
+
+[Screencast](./assets/Screencast_20240506_092939.webm)
 
 ## Viewing Event Log and confirming logon
 
